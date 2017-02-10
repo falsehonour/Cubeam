@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 343aef031a416f34ba1fdc385a394752
+timeCreated: 1431400590
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LockEmitterBar
+    100004: LockEmitterBase
+    100006: LockEmitterBody
+    100008: LockEmitterCilinders
+    100010: LockEmitterFemaleScrew_L
+    100012: LockEmitterFemaleScrew_R
+    100014: Screw3
+    100016: Screw4
+    100018: Screw5
+    100020: Screw6
+    400000: //RootNode
+    400002: LockEmitterBar
+    400004: LockEmitterBase
+    400006: LockEmitterBody
+    400008: LockEmitterCilinders
+    400010: LockEmitterFemaleScrew_L
+    400012: LockEmitterFemaleScrew_R
+    400014: Screw3
+    400016: Screw4
+    400018: Screw5
+    400020: Screw6
+    2300000: LockEmitterBar
+    2300002: LockEmitterBase
+    2300004: LockEmitterBody
+    2300006: LockEmitterCilinders
+    2300008: LockEmitterFemaleScrew_L
+    2300010: LockEmitterFemaleScrew_R
+    2300012: Screw3
+    2300014: Screw4
+    2300016: Screw5
+    2300018: Screw6
+    3300000: LockEmitterBar
+    3300002: LockEmitterBase
+    3300004: LockEmitterBody
+    3300006: LockEmitterCilinders
+    3300008: LockEmitterFemaleScrew_L
+    3300010: LockEmitterFemaleScrew_R
+    3300012: Screw3
+    3300014: Screw4
+    3300016: Screw5
+    3300018: Screw6
+    4300000: LockEmitterBar
+    4300002: LockEmitterFemaleScrew_R
+    4300004: LockEmitterFemaleScrew_L
+    4300006: Screw3
+    4300008: Screw4
+    4300010: Screw5
+    4300012: Screw6
+    4300014: LockEmitterBase
+    4300016: LockEmitterBody
+    4300018: LockEmitterCilinders
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
